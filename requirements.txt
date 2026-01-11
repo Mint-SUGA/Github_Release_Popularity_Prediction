@@ -1,4 +1,4 @@
-hopsworks
+hopsworks[python]
 pandas
 requests
 beautifulsoup4
